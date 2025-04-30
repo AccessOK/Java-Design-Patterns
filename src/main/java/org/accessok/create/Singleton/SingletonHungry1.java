@@ -1,4 +1,4 @@
-package org.accessok.create;
+package org.accessok.create.Singleton;
 public class SingletonHungry1 {
     //直接实例化
     //static 修饰属性（静态变量/类变量），多个对象共享同一个静态变量，

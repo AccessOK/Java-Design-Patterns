@@ -1,4 +1,4 @@
-package org.accessok.create;
+package org.accessok.create.Singleton;
 
 public class SingletonHungry3 {
     //volatile 同一时刻只能有一个线程对他进行操作，

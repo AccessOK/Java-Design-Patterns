@@ -1,4 +1,4 @@
-package org.accessok.create;
+package org.accessok.create.Singleton;
 
 public class SingletonHungry2 {
     private static SingletonHungry2 instance;
