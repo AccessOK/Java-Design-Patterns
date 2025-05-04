@@ -1,7 +1,5 @@
 package org.accessok.create.Builder;
 
-import jdk.internal.org.commonmark.node.Link;
-
 //复杂产品类
 public class Product {
     private  String part1;

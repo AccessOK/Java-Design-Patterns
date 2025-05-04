@@ -16,6 +16,7 @@ public class BuilderTest {
         //不适用指挥者
         ConcreteBuilder builder2=new ConcreteBuilder();
         builder2.buildPart1("setPartA");
+        //产品类的子创建可以部分创建部分不创建
         builder2.buildPart2("setPartB");
         System.out.println(builder2.getProduct());
     }
