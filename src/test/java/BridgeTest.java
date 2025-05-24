@@ -1,5 +1,5 @@
-import org.accessok.structural.Bridge.BossCar;
-import org.accessok.structural.Bridge.HybridEngine;
+import org.accessok.structure.EBridge.BossCar;
+import org.accessok.structure.EBridge.HybridEngine;
 import org.junit.Test;
 
 public class BridgeTest {
